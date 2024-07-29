@@ -1,0 +1,14 @@
+D:\aProyectos\c#\console\toDoApp\bin\Debug\net8.0\aProyectos.exe
+D:\aProyectos\c#\console\toDoApp\bin\Debug\net8.0\aProyectos.deps.json
+D:\aProyectos\c#\console\toDoApp\bin\Debug\net8.0\aProyectos.runtimeconfig.json
+D:\aProyectos\c#\console\toDoApp\bin\Debug\net8.0\aProyectos.dll
+D:\aProyectos\c#\console\toDoApp\bin\Debug\net8.0\aProyectos.pdb
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.GeneratedMSBuildEditorConfig.editorconfig
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.AssemblyInfoInputs.cache
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.AssemblyInfo.cs
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.csproj.CoreCompileInputs.cache
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.dll
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\refint\aProyectos.dll
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.pdb
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\aProyectos.genruntimeconfig.cache
+D:\aProyectos\c#\console\toDoApp\obj\Debug\net8.0\ref\aProyectos.dll
