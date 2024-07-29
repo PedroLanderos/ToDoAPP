@@ -1,2 +1,2 @@
 # ToDoAPP
-A functional to do app with only C# and a lot of algotithms 
+A functional to do app with only C# and a lot of algorithms
